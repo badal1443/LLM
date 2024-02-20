@@ -31,6 +31,14 @@ Chat GPT has a base LLM, use this base LLM training on a specific dataset of a b
 Training of instructions tuned LLM can be a few days. 
 
 
+--------------
+
+## Moderation API and prompt injection.
+
+Moderation api to detect nature of use query, and this can be used to identify if the appropriate query has been given to prompt.
+[Modeartion API](https://platform.openai.com/docs/guides/moderation)
+
+
 
 
 
