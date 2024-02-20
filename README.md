@@ -38,7 +38,7 @@ Training of instructions tuned LLM can be a few days.
 Moderation api to detect nature of use query, and this can be used to identify if the appropriate query has been given to prompt.
 [Modeartion API](https://platform.openai.com/docs/guides/moderation)
 
-Prompt injection: using techniques like "forget the previous question and ..." is general prompt injection to ask system system to do something which we want to avoid.
+Prompt injection: using techniques like "forget the previous instructions and ..." is general prompt injection to ask system system to do something which we want to avoid.
 
 Using a delimiter to avoid prompt injection.
 
